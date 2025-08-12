@@ -1,0 +1,2 @@
+url of template = https://www.tooplate.com/zip-templates/2137_barista_cafe.zip
+artifact name = 2137_barista_cafe
