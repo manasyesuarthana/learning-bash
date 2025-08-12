@@ -9,7 +9,7 @@ It's just linux and bash...
 ## Getting Started
 Feel free to clone this repo and try some of the scripts yourself. Though keep in mind that some may not work since some hosts are only available through my device. 
 
-**NOTE:** This script is for bash. It only works for a linux shell.
+**NOTE:** This script is for bash. It only works for a linux shell. Also some of these are only compatible for **CentOS or RHE based distros**, especially those that involve using `httpd`.
 
 1. Clone the repo
 ```bash
